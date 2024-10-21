@@ -1,0 +1,20 @@
+Help on module my_functions:
+
+NAME
+    my_functions
+
+FUNCTIONS
+    divisors(value)
+        Return a list of dividers for the number value
+        :param value: the number to test
+        :return: a list of dividers.
+
+    isPrime(value)
+        Return a true or false
+        :param value: the number to test
+        :return: if its prime or not.
+
+FILE
+    /home/pedro/Secretária/PSR/Aula2/Ex2/my_functions.py
+
+
